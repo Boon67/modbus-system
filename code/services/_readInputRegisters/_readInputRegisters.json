@@ -1,0 +1,12 @@
+{
+    "current_version": 21,
+    "dependencies": "clearblade,globals,file_writer",
+    "logging_enabled": "false",
+    "name": "_readInputRegisters",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "_readInputRegisters.js"
+}
