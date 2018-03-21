@@ -1,0 +1,23 @@
+{
+    "author": {
+        "email": "tboon@clearblade.com"
+    },
+    "clouds": [],
+    "description": "Base Modbus System including adapter and logging tables.",
+    "domains": [],
+    "gateways": [],
+    "image_url": "https://i.imgur.com/lNA4Plh.png",
+    "keywords": [
+        "clearblade",
+        "iot",
+        "platform",
+        "modbus"
+    ],
+    "license": "MIT",
+    "name": "modbus-system",
+    "private": false,
+    "prog_lang": [],
+    "protocols": [],
+    "things": [],
+    "version": ""
+}
