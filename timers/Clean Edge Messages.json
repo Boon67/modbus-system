@@ -1,0 +1,8 @@
+{
+    "description": "Clears out the messages on the edge",
+    "frequency": 1200,
+    "name": "Clean Edge Messages",
+    "repeats": -1,
+    "service_name": "_clearMessageQueues",
+    "start_time": "2018-03-06T22:37:28Z"
+}
