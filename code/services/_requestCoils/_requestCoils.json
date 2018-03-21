@@ -1,0 +1,12 @@
+{
+    "current_version": 39,
+    "dependencies": "clearblade,globals,log",
+    "logging_enabled": "false",
+    "name": "_requestCoils",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "_requestCoils.js"
+}
