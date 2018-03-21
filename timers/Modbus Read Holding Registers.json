@@ -1,0 +1,8 @@
+{
+    "description": "Modbus Holding Register Timer",
+    "frequency": 300,
+    "name": "Modbus Read Holding Registers",
+    "repeats": -1,
+    "service_name": "_readHoldingRegisters",
+    "start_time": "2018-03-02T18:23:14Z"
+}
